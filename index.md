@@ -9,3 +9,6 @@ Koch wuchs unter schwierigen Umständen auf. Seine Mutter starb 1976 an Krebs, s
 *
 
   > Wissen muss für jeden Menschen gleich zugänglich sein!
+
+
+<img src="https://de.wikipedia.org/wiki/Datei:Atari_1040STf.jpg"/>
