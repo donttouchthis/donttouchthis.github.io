@@ -6,4 +6,6 @@ Koch wuchs unter schwierigen Umständen auf. Seine Mutter starb 1976 an Krebs, s
 * Atari ST
 * CCC Leitstelle 511
 * Pseudonym
-* 
+*
+
+  > Wissen muss für jeden Menschen gleich zugänglich sein!
